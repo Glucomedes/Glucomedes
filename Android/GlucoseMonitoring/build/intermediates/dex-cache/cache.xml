@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Jonah\AndroidStudioProjects\GlucoseMonitoring\app\build\intermediates\pre-dexed\debug\usb-serial-for-android-v010-02ce2f7c596c9e09d3db429d77e16ce2a126e6e2.jar"
+        jar="C:\Users\Jonah\AndroidStudioProjects\GlucoseMonitoring\app\libs\usb-serial-for-android-v010.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c49e65ea5d8d4c1311d0c1189adb07b2c01be29a"/>
+
+</pre-dex-items>
